@@ -8,6 +8,7 @@ final exam web application
 put it simply, the application can add quotation and manage quotation. Also, user can add product and manage product. Login and Logout
 
 ## Username and Password
+use it for login at homepage
     userName: abc@xyz.com
     password: 123
   
