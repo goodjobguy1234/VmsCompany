@@ -12,9 +12,9 @@ put it simply, the application can add quotation and manage quotation. Also, use
     password: 123
   
 ## Code Repository
-React-application Repo: https://github.com/goodjobguy1234/finalExam
+Backend+ReactApplication Repo(Deployed): https://github.com/goodjobguy1234/finalExam
 
-BackEnd-Repo: https://github.com/goodjobguy1234/VmsCompanyApp
+ReactApp Codebase Repo: https://github.com/goodjobguy1234/VmsCompanyApp
 
 *** Application Demo: https://company-6210015.herokuapp.com ***
 
