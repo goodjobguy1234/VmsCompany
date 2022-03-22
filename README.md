@@ -1,11 +1,15 @@
 # VmsCompany
-final exam web application
+### By Thitare Nimanong   studentID: 6210015
 
-    name: Thitare Nimanong
-    studentID: 6210015
+## Project Description
+this is full stack web application project. building with MERN stack (reactjs, express, mongoDB, nodejs) and deploy via Heroku server.
 
 ## Functionality
-put it simply, the application can add quotation and manage quotation. Also, user can add product and manage product. Login and Logout
+put it simply, there are 4 functionality. the application can add quotation and manage quotation. Also, user can add product and manage product. Login and Logout
+
+- Home page: user can logout.
+- Quotation page: user can manage their quotation such as delete a record or create multiple record by press add button (It will go to quotation building page).
+- Product page: user can mangage products here. it can create new product to used in create quotation, delete and edit the exist product.
 
 ## Username and Password
 use it for login at homepage
